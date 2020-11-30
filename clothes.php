@@ -68,12 +68,12 @@
 					<a id="asd" href="pay.php"> $456 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="talon.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0020.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">kop</div>
 					<a id="asd" href="pay.php"> $1750 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="talon..jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="talon.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">talon</div>
 					<a id="asd" href="pay.php"> $223 </a>
 				  </div>
