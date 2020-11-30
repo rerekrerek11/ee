@@ -33,7 +33,7 @@
 					<a id="asd" href="pay.php"> $1500 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/11.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0027.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">address</div>
 					<a id="asd" href="pay.php"> $2300 </a>
 				  </div>
