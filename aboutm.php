@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="aboutm.css">
     </head>
      <body>
+	     <a href="index.php">الصفحه الرئيسيه</a>
          <div class="about">
             <span>ABOUT</span> 
              <br>
