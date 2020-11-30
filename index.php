@@ -9,7 +9,7 @@
            <ul class="lll">
 
               <li> <a href="aboutm.php">عن الموقع</a><li>
-			  <li><a href="clothes.html">فتيات</a></li>
+			  <li><a href="clothes.php">فتيات</a></li>
 			
 
 
