@@ -23,57 +23,57 @@
                <div class="contanier">
 			   
 				<div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/00.jpg" alt=" موجوده الصورة غير" width="100" height="80">
-					<div class="desc">plozes</div>
+					  <img src="حذاء.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					<div class="desc">shose</div>
 					<a id="asd" href="pay.php"> $1800 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/9.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="تنزgg.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">jaket</div>
 					<a id="asd" href="pay.php"> $1500 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/IMG-20201130-WA0027.jpg" alt=" موجوده الصورة غير" width="100" height="80">
-					<div class="desc">address</div>
+					  <img src="ss.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					<div class="desc">shert</div>
 					<a id="asd" href="pay.php"> $2300 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/8.jpg" alt=" موجوده الصورة غير" width="100" height="80">
-					<div class="desc">accept</div>
+					  <img src="ggg.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					<div class="desc">scot</div>
 					<a id="asd" href="pay.php"> $450 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/2.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="تنزيل.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">poqma</div>
 					<a id="asd" href="pay.php"> $230 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/3.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0025.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">JHDF</div>
 					<a id="asd" href="pay.php"> $3000 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/5.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0021.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">skert</div>
 					<a id="asd" href="pay.php"> $1020 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/6.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0026.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">adres</div>
 					<a id="asd" href="pay.php"> $445 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/9.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0023.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">kareena</div>
 					<a id="asd" href="pay.php"> $456 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/2.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0018.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">kop</div>
 					<a id="asd" href="pay.php"> $1750 </a>
 				  </div>
 				   <div class="gallery">                                               <!-- كود الصور كلنك مدمجه مع النص -->
-					  <img src="images/4.jpg" alt=" موجوده الصورة غير" width="100" height="80">
+					  <img src="IMG-20201130-WA0027.jpg" alt=" موجوده الصورة غير" width="100" height="80">
 					<div class="desc">talon</div>
 					<a id="asd" href="pay.php"> $223 </a>
 				  </div>
