@@ -1,5 +1,5 @@
 <center>
-    <a href="index.php">الصفحه الرئيسيه</a>
+    <a href="pay.php">الصفحه الرئيسيه</a>
     <h1>شاشه الدخول</h1>
 
 </center>
