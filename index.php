@@ -7,7 +7,7 @@
      <body>
            <div class="oooo">
            <ul class="lll">
-
+<a href="admin.php">مدير الموقع</a><li>
               <li> <a href="aboutm.php">عن الموقع</a><li>
 			  <li><a href="clothes.php">فتيات</a></li>
 			
