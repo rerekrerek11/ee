@@ -7,9 +7,10 @@
      <body>
 	     <a href="index.php">الصفحه الرئيسيه</a>
 	      <br>
+	     <br>
          <div class="about">
             <span>ABOUT</span> 
-             <br>>
+             <br>
              <p>
                  
 جمعلنا لك افضل موقع ملابس اطفال علي الانترنت
