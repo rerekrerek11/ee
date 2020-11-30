@@ -8,9 +8,9 @@
            <div class="oooo">
            <ul class="lll">
               <li> <a href="pay.php">الرئيسية</a><li>
-              <li> <a href="aboutm.html">عن الموقع</a><li>
-			  <li><a href="gallery.html">فتيات</a></li>
-			  <li><a href="gallery.html">صبيان</a></li>
+              <li> <a href="aboutm.php">عن الموقع</a><li>
+			  <li><a href="gallery.php">فتيات</a></li>
+			  <li><a href="gallery.php">صبيان</a></li>
 
 
 
